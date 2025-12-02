@@ -21,7 +21,7 @@
 
 ## 🔥 주요 프로젝트 
 
-### 🧠 [AI 모의면접 시스템](https://github.com/Dongwoo923/Project-AI_Interview)
+### 🧠 [AI 모의 면접 시스템](https://github.com/Dongwoo923/Project-AI_Interview)
 라즈베리파이5 + Streamlit + Flask 기반 AI 면접 시스템  
 - 음성 녹음(STT)  
 - XML 자세 분석  
@@ -30,7 +30,7 @@
 
 ---
 
-### 📺 [만능리모컨](https://github.com/Dongwoo923/Project-CustomRemote)
+### 📺 [만능 리모컨](https://github.com/Dongwoo923/Project-CustomRemote)
 타이머 & PWM 기반 IR 리모컨 송신기 펌웨어  
 - NEC 프로토콜 분석/파형 생성  
 - CubeMX로 클럭/타이머/PWM 설정  
@@ -39,7 +39,7 @@
 
 ---
 
-### 💡 [IoT 스마트 무드등 (STM32 + Server + BLE)](https://github.com/Dongwoo923Project-Smartmoodlamp)
+### 💡 [IoT 스마트 무드등](https://github.com/Dongwoo923Project-Smartmoodlamp)
 STM32 + 서버 + BLE + LCD 기반 IoT 무드등 시스템  
 - 원격 제어(LED 모드, 밝기, 색상 변경)  
 - 날씨/기온/일출·일몰 시간 API 연동  
