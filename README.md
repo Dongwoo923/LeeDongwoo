@@ -20,18 +20,16 @@
 - 🧱 C/C++ 객체지향 학습 + Qt GUI 실습 진행
 
 ---
-
+🧠
 ## 🔥 Featured Projects
 
-### 🧠 AI Interview System (Raspberry Pi + Python + Edge AI)
-카메라/마이크 기반 면접 시뮬레이터  
-- 🎥 RTSP 기반 영상 녹화 & 음성 녹음  
-- 🎤 Whisper 기반 STT  
-- 🧩 openSMILE로 음성 Feature 분석 (jitter/shimmer/HNR 등)  
-- 🧍 Face/Posture XML 분석  
-- 🤖 LLM 기반 실시간 면접 피드백  
-- 🏗 멀티프로세싱 기반 CPU 최적화 (GIL 우회)  
-- 🖥 Streamlit UI + Flask API 서버 구조  
+### 🧠 [AI Interview System (Team Project)](https://github.com/Pride-and-Prejudice)
+라즈베리파이5 + Streamlit + Flask 기반 AI 면접 시스템  
+- 음성 녹음(STT)  
+- XML 자세 분석  
+- LLM 질문별/최종 피드백  
+- 멀티프로세싱 기반 최적화  
+
 
 ---
 
