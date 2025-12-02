@@ -19,9 +19,9 @@
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 주요 프로젝트 
 
-### 🧠 [AI Interview System (Team Project)](https://github.com/Pride-and-Prejudice)
+### 🧠 [AI 모의면접 시스템](https://github.com/won-jong-wan/Pride-and-Prejudice)
 라즈베리파이5 + Streamlit + Flask 기반 AI 면접 시스템  
 - 음성 녹음(STT)  
 - XML 자세 분석  
@@ -30,7 +30,7 @@
 
 ---
 
-### 📡 STM32F4 Universal Remote
+### 📡 만능리모컨
 타이머 & PWM 기반 IR 리모컨 송신기 펌웨어  
 - NEC 프로토콜 분석/파형 생성  
 - CubeMX로 클럭/타이머/PWM 설정  
@@ -39,7 +39,16 @@
 
 ---
 
+### 💡 [IoT 스마트 무드등 (STM32 + Server + BLE)](https://github.com/Dongwoo923/YOUR_REPO_LINK)
+STM32 + 서버 + BLE + LCD 기반 IoT 무드등 시스템  
+- 원격 제어(LED 모드, 밝기, 색상 변경)  
+- 날씨/기온/일출·일몰 시간 API 연동  
+- LCD에 현재 시간·날씨 표시  
+- BLE 모듈로 서버 데이터 수신  
+- SQL 기반 상태 저장/업데이트  
+- ON / OFF / 색상순환 모드 지원  
 
+---
 ## 🛠 Tech Stack
 
 ### 🚀 Languages
@@ -56,7 +65,6 @@
 <p>
   <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/ABOV-E60012?style=flat" />
   <img src="https://img.shields.io/badge/ARM%20Cortex-M-0091BD?style=flat&logo=arm&logoColor=white" />
 </p>
 
