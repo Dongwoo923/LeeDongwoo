@@ -11,11 +11,9 @@
 
 - 👨‍💻 Embedded Linux & Firmware 개발 지향
 - 🎯 관심 분야: **Device Driver, BSP, Edge AI, Real-Time System, RTOS**
-- 🧪 라즈베리파이5 기반 **커널 모듈(LED/KEY, poll, ioctl, timer)** 구현 경험
 - 🔧 STM32F4 기반 **PWM/타이머/IRQ/통신 프로토콜** 활용 프로젝트 진행
 - 🧠 Python 기반 **AI 시스템 설계 / Streamlit / Flask 서버 개발**
 - 🎓 Edge AI SW Academy 수료 과정 중  
-- 🧱 C/C++ 객체지향 학습 + Qt GUI 실습 진행
 
 ---
 
