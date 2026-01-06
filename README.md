@@ -39,10 +39,10 @@ Raspberry Pi 4B + Linux Kernel 기반
 
 ### 🧠 [AI 모의 면접 시스템](https://github.com/Dongwoo923/Project-AI_Interview)
 라즈베리파이5 + Streamlit + Flask 기반 AI 면접 시스템  
-- 음성 녹음(STT)  
-- XML 자세 분석  
-- LLM 질문별/최종 피드백  
-- 멀티프로세싱 기반 최적화  
+- Edge AI를 활용한 온디바이스 추론으로 빠른 응답 속도 구현
+- 음성 녹음(STT),XML 자세 분석  
+- LLM 질문별/최종 피드백을 통한 실전 면접 연습 환경 제공  
+  
 
 ---
 
