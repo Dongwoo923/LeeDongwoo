@@ -10,16 +10,31 @@
 ## 🚀 About Me
 
 - 👨‍💻 Embedded Linux & Firmware 개발 지향
-- 🎯 관심 분야: **Device Driver, BSP, Edge AI, Real-Time System, RTOS**
-- 🧪 라즈베리파이5 기반 **커널 모듈(LED/KEY, poll, ioctl, timer)** 구현 경험
-- 🔧 STM32F4 기반 **PWM/타이머/IRQ/통신 프로토콜** 활용 프로젝트 진행
-- 🧠 Python 기반 **AI 시스템 설계 / Streamlit / Flask 서버 개발**
-- 🎓 Edge AI SW Academy 수료 과정 중  
-- 🧱 C/C++ 객체지향 학습 + Qt GUI 실습 진행
+- 🎯 관심 분야: **Device Driver, BSP,RTOS, Firmware**
 
 ---
 
 ## 🔥 주요 프로젝트 
+
+### 🔌 [USB 매크로]
+Linux Kernel 기반 USB Vendor 장치 제어 시스템
+- USB Vendor Class 기반 커스텀 디바이스 설계  
+- USB 연결만으로 즉시 동작하는 Plug & Play 매크로 실행 환경
+- USB 장치 ↔ 커널 ↔ 사용자 애플리케이션 연동 구조 
+- Bulk 전송 기반 프레임 프로토콜로 안정적인 데이터 처리
+
+---
+
+
+### ⏱️ [Linux-Kernel-Clock-System](https://github.com/Dongwoo923/Project_Device_Driver)
+Raspberry Pi 4B + Linux Kernel 기반   
+- DS1302 RTC 시계 기능  
+- DHT11 온·습도 센서 연동  
+- OLED(I2C) 화면 출력   
+- 로터리 엔코더 기반 시간 설정    
+
+---
+
 
 ### 🧠 [AI 모의 면접 시스템](https://github.com/Dongwoo923/Project-AI_Interview)
 라즈베리파이5 + Streamlit + Flask 기반 AI 면접 시스템  
@@ -93,10 +108,10 @@ STM32 + 서버 + BLE + LCD 기반 IoT 무드등 시스템
 
 ### 🧪 Tools & Environments
 <p>
+  <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat&logo=altiumdesigner&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keil-0091BD?style=flat&logo=arm&logoColor=white" />
   <img src="https://img.shields.io/badge/CubeMX-1E88E5?style=flat&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/GDB-000000?style=flat&logo=gnu&logoColor=white" />
 </p>
